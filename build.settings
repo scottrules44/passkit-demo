@@ -1,0 +1,9 @@
+settings =
+{
+	plugins =
+    {
+        ["plugin.passkit"] = {
+            publisherId = "tech.scotth",
+        },    
+    },
+}
